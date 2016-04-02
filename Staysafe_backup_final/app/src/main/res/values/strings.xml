@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Stay safe</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_first">FirstActivity</string>
+    <string name="title_activity_add_c">AddCActivity</string>
+    <string name="title_activity_edit_c">EditCActivity</string>
+    <string name="title_activity_delete_c">DeleteCActivity</string>
+    <string name="title_activity_my">MyActivity</string>
+</resources>
